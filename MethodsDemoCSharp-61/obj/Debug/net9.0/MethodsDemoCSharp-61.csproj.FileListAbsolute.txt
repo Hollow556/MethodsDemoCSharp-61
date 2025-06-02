@@ -1,0 +1,14 @@
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\bin\Debug\net9.0\MethodsDemoCSharp-61.exe
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\bin\Debug\net9.0\MethodsDemoCSharp-61.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\bin\Debug\net9.0\MethodsDemoCSharp-61.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\bin\Debug\net9.0\MethodsDemoCSharp-61.dll
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\bin\Debug\net9.0\MethodsDemoCSharp-61.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\obj\Debug\net9.0\MethodsDemoCSharp-61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\obj\Debug\net9.0\MethodsDemoCSharp-61.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\obj\Debug\net9.0\MethodsDemoCSharp-61.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\obj\Debug\net9.0\MethodsDemoCSharp-61.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\obj\Debug\net9.0\MethodsDemoCSharp-61.dll
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\obj\Debug\net9.0\refint\MethodsDemoCSharp-61.dll
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\obj\Debug\net9.0\MethodsDemoCSharp-61.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\obj\Debug\net9.0\MethodsDemoCSharp-61.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\MethodsDemoCSharp-61\MethodsDemoCSharp-61\obj\Debug\net9.0\ref\MethodsDemoCSharp-61.dll
